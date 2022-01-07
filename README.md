@@ -10,7 +10,7 @@ Finance and Engineering.
 
 📫 How to reach me
  
-
+[Linkedln](https://www.linkedin.com/in/nakul-thakare/)
 
 
 <!---
