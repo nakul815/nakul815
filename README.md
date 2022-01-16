@@ -8,6 +8,16 @@ Finance and Engineering.
 
 🎓 I received my Masters in Financial Engineering from the University of UCLA Anderson and Bachelors in Mechanical Engineering from BITS Pilani.
 
+🌱 Interests
+
+Machine learning
+Statistics
+Derivatives and researching trading strategies
+Time series analysis and forecasting
+Work with data and APIs
+Data visualization
+
+
 📫 How to reach me
  
 [Linkedln](https://www.linkedin.com/in/nakul-thakare/)
