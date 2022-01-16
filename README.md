@@ -10,12 +10,12 @@ Finance and Engineering.
 
 🌱 Interests
 
-Machine learning
-Statistics
-Derivatives and researching trading strategies
-Time series analysis and forecasting
-Work with data and APIs
-Data visualization
+Machine learning <br />
+Statistics <br />
+Derivatives and researching trading strategies <br />
+Time series analysis and forecasting <br />
+Work with data and APIs <br />
+Data visualization <br />
 
 
 📫 How to reach me
