@@ -22,6 +22,19 @@ Data visualization <br />
  
 [Linkedln](https://www.linkedin.com/in/nakul-thakare/)
 
+### GitHub Stats
+
+<table class="center" style="width:100%;">
+  <tr>
+    <td align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nakul815&count_private=true&show_icons=true&theme=onedark&hide_border=true" />
+    </td>
+    <td align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nakul815&langs_count=10&layout=compact&theme=onedark&hide_border=true" />
+</td>
+  </tr>
+</table>
+
 
 <!---
 nakul815/nakul815 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
